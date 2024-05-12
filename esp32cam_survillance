@@ -1,0 +1,4 @@
+#define CAMERA_MODEL_AI_THINKER
+
+const char* ssid = "*********";
+const char* password = "*********";
